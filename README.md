@@ -13,4 +13,3 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=julioh3nri&show_icons=true&locale=en&layout=compact" alt="julioh3nri" /></p>
